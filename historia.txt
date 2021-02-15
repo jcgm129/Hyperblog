@@ -1,5 +1,28 @@
+<<<<<<< HEAD
 Esta es la historia de Freddy Vega
 
 Freddy Vega tiene 32 años y nació en Colombia
 
 Mañana nos enfocaremos en su vida laboral
+=======
+Practica jugando y trabajando
+
+    Grid Layout
+    Flexbox
+
+Indispensables
+Julio González.
+
+
+Estoy tratando de seguir el curso, pero es muy dificil con sueño.
+
+Sigo con sueño...
+*****************************************************
+
+Hoy es el día de Navidad del año 2020 y yo Estoy estudiando Git.
+
+<<<<<<< HEAD
+=======
+Dia despues de Navidad, con el despecho como un pendejo por Flor Angel .
+>>>>>>> cabecera
+>>>>>>> 90e149ef4b7fc8ed0bd27a92ac63e42f0b497062
