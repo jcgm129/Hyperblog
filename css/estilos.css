@@ -1,10 +1,5 @@
 body
 {
-<<<<<<< HEAD
-    color: deeppink;
-    text-align: center;
-    font-family: "Arial";
-=======
     color: blueviolet;
     text-align: center;
     font-family: "Arial";
@@ -40,5 +35,4 @@ body
 #container h1
 {
     font-size: 20px;
->>>>>>> 90e149ef4b7fc8ed0bd27a92ac63e42f0b497062
 }
