@@ -1,11 +1,15 @@
 body
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
     color: deeppink;
     text-align: center;
     font-family: "Arial";
 =======
     color: blueviolet;
+=======
+    color: #3d0c32;
+>>>>>>> fe9d5e108f09a64870113a78423b4417c641ad81
     text-align: center;
     font-family: "Arial";
     font-size: 16px;
@@ -40,5 +44,15 @@ body
 #container h1
 {
     font-size: 20px;
+<<<<<<< HEAD
 >>>>>>> 90e149ef4b7fc8ed0bd27a92ac63e42f0b497062
+=======
+}
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+>>>>>>> fe9d5e108f09a64870113a78423b4417c641ad81
 }
