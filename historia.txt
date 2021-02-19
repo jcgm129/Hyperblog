@@ -14,7 +14,4 @@ Sigo con sueño...
 
 Hoy es el día de Navidad del año 2020 y yo Estoy estudiando Git.
 
-<<<<<<< HEAD
-=======
 Dia despues de Navidad, con el despecho como un pendejo por Flor Angel .
->>>>>>> cabecera
